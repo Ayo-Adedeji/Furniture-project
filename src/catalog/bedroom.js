@@ -1,3 +1,4 @@
+const bedroomProducts =
 [
   {
     "id": "B01",
@@ -108,7 +109,7 @@
     "name": "Perla Bedroom Set",
     "price": 7950000,
     "description": "Transform your bedroom into a luxurious retreat with the Alina Bedroom Set. Crafted to blend elegance with functionality, this set offers everything you need to create a stylish and organized space. From the comfortable bed base to the spacious wardrobe, each piece is designed with meticulous attention to detail. Let’s delve into the features that make the Alina Bedroom Set a perfect choice for your home.",
-    "image": "/images/bedroom/perla-Bedroom-Set.webp",
+    "image": "/images/bedroom/perla-bedroom-set.webp",
     "categories": ["Bedroom Sets, Best Sellers"],
     "tags": ["Bestsellers"],
  "additionalInformation": "Items Included: Bed base, Commode, Dresser Mirror, Complete Set",
@@ -260,4 +261,5 @@
   ]
  }
 
-]
+];
+export default bedroomProducts;

@@ -1,10 +1,11 @@
+const diningProducts =
 [
     {
     "id": "D01",
     "name": "Monet Dining Set",
     "price": 43400000,
     "description": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
-    "image": "/images/dining/monet-dining-set.webp",
+    "image": "/images/diningRoom/monet-dining-set.webp",
     "categories": ["Dining Room Sets, Best Sellers"],
     "tags": ["Bestsellers"],
   "reviews": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
@@ -19,7 +20,7 @@
     "name": "Shine Dining Set",
     "price": 32400000,
     "description": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
-    "image": "/images/dining/Shine-Dining-Set.webp",
+    "image": "/images/diningRoom/Shine-Dining-Set.webp",
     "categories": ["Dining Room Sets, Luxury"],
     "tags": ["Bestsellers"],
   "reviews": "Shine Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
@@ -34,7 +35,7 @@
     "name": "Bentley Ark Dining Set",
     "price": 24000000,
     "description": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
-    "image": "/images/dining/bentley-ark-dining-set.webp",
+    "image": "/images/diningRoom/bentley-ark-dining-set.webp",
     "categories": ["Dining Room Sets, Best Sellers"],
     "tags": ["Bestsellers"],
   "reviews": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
@@ -49,7 +50,7 @@
     "name": "Bugatti Maz Dining Set",
     "price": 33000000,
     "description": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
-    "image": "/images/dining/bugatti-maz-dining-set.webp",
+    "image": "/images/diningRoom/bugatti-maz-dining-set.webp",
     "categories": ["Dining Room Sets, Best Sellers"],
     "tags": ["Bestsellers"],
   "reviews": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
@@ -64,7 +65,7 @@
     "name": "Ecrue Dining Set",
     "price": 23400500,
     "description": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
-    "image": "/images/dining/ecrue-dining-set.webp",
+    "image": "/images/diningRoom/ecrue-dining-set.webp",
     "categories": ["Dining Room Sets, Best Sellers"],
     "tags": ["Bestsellers"],
   "reviews": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
@@ -79,7 +80,7 @@
     "name": "Istanbul Maz Dining Set",
     "price": 73000000,
     "description": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
-    "image": "/images/dining/istanbul-maz-dining-set.webp",
+    "image": "/images/diningRoom/istanbul-maz-dining-set.webp",
     "categories": ["Dining Room Sets, Best Sellers"],
     "tags": ["Bestsellers"],
   "reviews": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
@@ -94,7 +95,7 @@
     "name": "San Marino Dining Set",
     "price": 53400000,
     "description": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
-    "image": "/images/dining/san-marino-dining-set.webp",
+    "image": "/images/diningRoom/san-marino-dining-set.webp",
     "categories": ["Dining Room Sets, Best Sellers"],
     "tags": ["Bestsellers"],
   "reviews": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
@@ -109,7 +110,7 @@
     "name": "Tomford Dining Set",
     "price": 63500000,
     "description": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
-    "image": "/images/dining/Tomford-Dining-Set.webp",
+    "image": "/images/diningRoom/Tomford-Dining-Set.webp",
     "categories": ["Dining Room Sets, Best Sellers"],
     "tags": ["Bestsellers"],
   "reviews": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
@@ -124,7 +125,7 @@
     "name": "Venedik Dining Set",
     "price": 62500000,
     "description": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
-    "image": "/images/dining/venedik-dining-set.png.webp",
+    "image": "/images/diningRoom/venedik-dining-set.png.webp",
     "categories": ["Dining Room Sets, Best Sellers"],
     "tags": ["Bestsellers"],
   "reviews": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
@@ -139,7 +140,7 @@
     "name": "Versace Dining Set",
     "price": 53400000,
     "description": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
-    "image": "/images/dining/Versace-Dining-Set.webp",
+    "image": "/images/diningRoom/Versace-Dining-Set.webp",
     "categories": ["Dining Room Sets, Best Sellers"],
     "tags": ["Bestsellers"],
   "reviews": "Monet Dining Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your dining space into an opulent setting. This 8-seater dining set includes a spacious dining table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet Dining Set is an essential choice for high-end interiors and refined dining experiences.",
@@ -149,4 +150,5 @@
     "Installation is Free within the areas of our showroom."
   ]
  }
-]
+];
+export default diningProducts;

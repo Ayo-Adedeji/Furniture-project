@@ -1,3 +1,5 @@
+const kitchenProducts = 
+
 [
     {
         "id": "K01",
@@ -124,4 +126,5 @@
     
 
   
-]
+];
+export default kitchenProducts; 

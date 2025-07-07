@@ -1,3 +1,4 @@
+const livingRoomProducts =
 [
     {
          "id": "L01",
@@ -19,7 +20,7 @@
     "name": "Atlantis Sofa Set",
     "price": 23000000,
     "description": "Bring timeless elegance and refined style into your living space with the Istanbul Ark Sofa Set. This comprehensive ensemble includes two luxurious 3-seater sofas, two armchairs, a sophisticated center table, and a pair of matching side tables—each element designed to offer comfort, functionality, and visual harmony.",
-    "image": "/images/livingRoom/Atlantis-Sofa-set.webp",
+    "image": "/images/livingRoom/Atlantis-Sofa-Set.webp",
     "categories": ["Sofa Sets, Best Sellers"],
     "tags": ["Bestsellers"],
   "reviews": "Atlantis Sofa Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your livingRoom space into an opulent setting. This 8-seater livingRoom set includes a spacious livingRoom table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet livingRoom Set is an essential choice for high-end interiors and refined livingRoom experiences.",
@@ -64,7 +65,7 @@
     "name": "Channel Sofa Set",
     "price": 32000000,
     "description": "Bring timeless elegance and refined style into your living space with the Istanbul Ark Sofa Set. This comprehensive ensemble includes two luxurious 3-seater sofas, two armchairs, a sophisticated center table, and a pair of matching side tables—each element designed to offer comfort, functionality, and visual harmony.",
-    "image": "/images/livingRoom/Channel-Sofa-set.webp",
+    "image": "/images/livingRoom/Channel-Sofa-Set.webp",
     "categories": ["Sofa Sets, Best Sellers"],
     "tags": ["Bestsellers"],
   "reviews": "Instabul Ark Sofa Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your livingRoom space into an opulent setting. This 8-seater livingRoom set includes a spacious livingRoom table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet livingRoom Set is an essential choice for high-end interiors and refined livingRoom experiences.",
@@ -109,7 +110,7 @@
     "name": "Paris Kad Sofa Set",
     "price": 12000000,
     "description": "Bring timeless elegance and refined style into your living space with the Istanbul Ark Sofa Set. This comprehensive ensemble includes two luxurious 3-seater sofas, two armchairs, a sophisticated center table, and a pair of matching side tables—each element designed to offer comfort, functionality, and visual harmony.",
-    "image": "/images/livingRoom/Paris-Kad-Sofa-set.webp",
+    "image": "/images/livingRoom/Paris-Kad-Sofa-Set.webp",
     "categories": ["Sofa Sets, Best Sellers"],
     "tags": ["Bestsellers"],
   "reviews": "Instabul Ark Sofa Set is a masterpiece of luxury, sophistication, and timeless elegance, designed to transform your livingRoom space into an opulent setting. This 8-seater livingRoom set includes a spacious livingRoom table, eight exquisitely crafted chairs, a statement console, and a matching mirror, creating the perfect balance of grandeur and functionality. With premium materials, intricate detailing, and a flawless finish, the Monet livingRoom Set is an essential choice for high-end interiors and refined livingRoom experiences.",
@@ -149,4 +150,5 @@
     "Installation is Free within the areas of our showroom."
   ]
     }
-]
+];
+export default livingRoomProducts;
