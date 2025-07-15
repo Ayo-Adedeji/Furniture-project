@@ -10,6 +10,10 @@ import Details from "./pages/Details";
 import Carts from "./pages/Carts";
 import Checkouts from "./pages/Checkouts";
 import CartSidebar from "./components/CartSidebar";
+import Gallery from "./pages/gallery";
+import Services from "./pages/Services";
+import Signin from "./pages/Signin";
+import Signup from "./pages/Signup";
 
 function App() {
   return (
@@ -23,9 +27,17 @@ function App() {
         <Route path="/product/:id" element={<Details />} />
         <Route path="/cart" element={<Carts />} />
         <Route path="/checkout" element={<Checkouts />} />
+        <Route path="/services" element={ <Services/>}/>
+        <Route path="/gallery" element={ <Gallery/>}/>
+        <Route path="/signin" element={ <Signin/>}/>
+        <Route path="/signup" element={ <Signup/>}/>
+        
       </Routes>
       <CartSidebar />
     </CartProvider>
+    
+    
+    
   );
 }
 

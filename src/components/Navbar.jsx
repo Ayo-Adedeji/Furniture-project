@@ -52,7 +52,11 @@ const Navbar = () => {
         >
           <ul className="space-y-6">
             <Link to="/"><li>Home</li></Link>
+            
+            <Link to="/services">
             <li>Service</li>
+            </Link>
+            
             <Link to="/gallery"><li>Gallery</li></Link>
             <Link to="/cart"><li>Cart</li></Link>
             <Link to="/signin">
