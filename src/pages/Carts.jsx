@@ -1,16 +1,15 @@
 import React from 'react'
-import Kitchen from '../components/Kitchen'
+import Cart from '../components/Cart'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 
-const KitchenPage = () => {
+const Carts = () => {
   return (
     <div>
-      <Navbar/>
-        <Kitchen/>
+        <Cart/>
         <Footer/>
     </div>
   )
 }
 
-export default KitchenPage
+export default Carts

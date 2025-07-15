@@ -12,31 +12,31 @@ const LivingRoom = () => {
       >
         <h1 className="font-bold text-6xl text-white">Sofa Sets</h1>
         <div className="space-x-4">
-          <Link to="living" >
+          
           <a className="underline border opacity-75 border-1 border-black bg-black  hover:underline hover:cursor-pointer hover:opacity-75 text-white p-3 rounded-lg">
             SOFA SETS
           </a>
-          </Link>
-          <Link to="bedroom" >
+         
+          
           <a className="border border-1 border-black bg-black opacity-100 hover:underline hover:cursor-pointer hover:opacity-75 text-white p-3 rounded-lg">
             BEDROOM SETS
           </a>
-          </Link>
-          <Link to="dining">
+         
+          
           <a className="border border-1 border-black bg-black opacity-100 hover:underline hover:cursor-pointer hover:opacity-75 text-white p-3 rounded-lg">
             DINING ROOM SETS
           </a>
-          </Link>
+         
         
           <a className="border border-1 border-black bg-black opacity-190 hover:underline hover:cursor-pointer hover:opacity-75 text-white p-3 rounded-lg">
             BEST SELLERS
           </a>
         
-          <Link to="kitchen">
+         
           <a className="border border-1 border-black bg-black opacity-100 hover:underline hover:cursor-pointer hover:opacity-75 text-white p-3 rounded-lg">
             KITCHEN SETS
           </a>
-          </Link>
+         
         </div>
         {/* <div>
           <img src="/images/livingRoom/still-sofa.webp"  alt="stillPic"/>

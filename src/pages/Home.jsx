@@ -1,9 +1,38 @@
-import React from 'react'
+import React, { lazy, Suspense } from 'react'
+import Navbar from '../components/Navbar';
+import HeroSection from '../components/HeroSection';
+import Guarantee from '../components/Guarantee';
+import InspiCollection from '../components/InspiCollection';
+import Bys from '../components/Bys'
+import Hiwsection from '../components/HiwSection';
+import OurGallery from '../components/OurGallery';
+import Spinner from '../components/Spinner';
+import Footer from '../components/Footer';
+
+
+// const InspiCollection = () => lazy(() => import ('../Components/InspiCollection'));
 
 const Home = () => {
+  
   return (
-    <div>Home</div>
+    <div>
+      <Navbar/>
+      <HeroSection/>
+      <Guarantee/>
+      <Suspense fallback={<Spinner/>}>
+        <InspiCollection/>
+      </Suspense>
+      
+      <Bys/>
+      <OurGallery/>
+      <Suspense fallback={<Spinner/>}>
+        <Hiwsection/>
+      </Suspense>
+      <Footer/>
+      
+      
+    </div>
   )
 }
 
-export default Home
+export default Home;
