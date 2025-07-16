@@ -14,6 +14,7 @@ import Gallery from "./pages/gallery";
 import Services from "./pages/Services";
 import Signin from "./pages/Signin";
 import Signup from "./pages/Signup";
+import Kitchen from "./components/Kitchen";
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
         <Route path="/gallery" element={ <Gallery/>}/>
         <Route path="/signin" element={ <Signin/>}/>
         <Route path="/signup" element={ <Signup/>}/>
+        <Route path="/kitchen" element={ <Kitchen/>}/>
         
       </Routes>
       <CartSidebar />

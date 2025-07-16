@@ -8,7 +8,7 @@ const InspiCollection = () => {
     <section className='m-8'>
       <div className='flex flex-col m-8 text-center justify-center items-center'> 
         <h1 className=' font-bold text-2xl'>Inspiration Collection</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>Breathe Life Into Your Living Space and let Your Space Tell Your Story</p>
       </div>
       <div className='flex justify-center space-x-5 '>
         <img className='mt-8 h-[35%]' src={collection1} alt='img1'/>

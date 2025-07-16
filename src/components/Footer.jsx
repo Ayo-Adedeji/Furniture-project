@@ -3,14 +3,25 @@ import ig1 from "../assets/IG-1.jpg"
 import ig2 from "../assets/IG-2.jpg"
 import ig3 from "../assets/IG-3.jpg"
 import ig4 from "../assets/IG-4.jpg"
+import { FaFacebook, FaInstagram, FaTwitter } from 'react-icons/fa'
 
 const Footer = () => {
   return (
     <section className=' flex mt-5  bg-[#03344F] py-7'>
       <div className='flex  flex-col max-w-sm mx-10  space-y-3 items-align'>
         <h2 className='font-semibold text-2xl text-white'>Beauty Care</h2>
-        <p className='text-white'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime deserunt repudiandae iusto. Magni commodi mollitia sunt itaque fuga dignissimos asperiores!</p>
-        <a className='font-semibold text-lg text-white'>Follow more</a>
+        <p className='text-white'>At Furniture, beauty goes beyond the surface. We're here to help you feel confident, radiant, and empowered every day.
+        Have questions or want to share your glow-up journey?
+        Connect with us on social media for tips, tutorials, and exclusive updates.</p>
+        <div className='flex gap-2 items-center'>
+          <a className='font-semibold text-lg text-white'>Follow more</a>
+        <ul className='flex gap-2 items-center '>
+          <li> <a href='https://www.facebook.com'> <FaFacebook/></a></li>
+          <li> <a href='https://www.instagram.com'> <FaInstagram/></a></li>
+          <li> <a href='https://www.twitter.com'> <FaTwitter/></a></li>
+        </ul>
+        </div>
+        
       </div>
 
       <div className='flex flex-col '>

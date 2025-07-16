@@ -8,7 +8,7 @@ const Hiwsection = () => {
     <section className='mx-10 border-t-2 py-4'>
       <div className='flex flex-col m-8 text-center justify-center items-center'> 
             <h1 className=' font-bold text-2xl'>How It Works</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Here’s How We Make It Happen</p>
       </div>
 
       <article className='flex gap-8'>
@@ -16,7 +16,7 @@ const Hiwsection = () => {
         <img src={PurchaseImage}/>
         <div className='text-center'>
           <h1 className='font-semibold text-xl'>Purchase Securely</h1>
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+          <p>Safe, Seamless, and Secure Purchases Every Time</p>
         </div>
       </div>
 
@@ -24,7 +24,7 @@ const Hiwsection = () => {
         <img src={Shipfrom}/>
         <div className='text-center'>
           <h1 className='font-semibold text-xl'>Ships From Warehouse</h1>
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+          <p>From Our Warehouse to You Fast & Hassle-Free</p>
         </div>
       </div>
 
@@ -32,7 +32,7 @@ const Hiwsection = () => {
         <img src={Styleyour}/>
         <div className='text-center'>
           <h1 className='font-semibold text-xl'>Style Your Room</h1>
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+          <p>Style Your Room with Timeless Elegance.</p>
         </div>
       </div>
 
